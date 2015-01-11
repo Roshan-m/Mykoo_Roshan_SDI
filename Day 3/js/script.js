@@ -120,3 +120,25 @@ var phrase2 = "I don't know!\nYou never know!";
 console.log(phrase2);
 
 
+// Boolean
+// Kind of like a light switch - either on or off
+// true or false - Not "true" or "false"
+
+var yes = true;
+var nope = false;
+
+// This is not a boolean
+var wrong= "true";
+
+//Order of operations
+//PEMDAS
+// Parenthesis, Exponents, Multiplication, Division, Addition, Subtraction;
+
+// Find quiz AVG
+var quiz1 =87;
+var quiz2 =100;
+var quiz3 =70;
+
+// Average - add them and then divide by how many there are
+var average = (quiz1+quiz2+quiz3)/3;
+console.log(average);
