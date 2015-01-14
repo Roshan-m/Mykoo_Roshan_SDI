@@ -27,3 +27,27 @@ console.log(phoneNumber2);
 
 var phoneNumber3 = "("+areaCode+ ")-"+firstPart+ "-"+secondPart;
 console.log(phoneNumber3);
+
+
+// Parsing Integers
+//parseInt() - it looks through a text string and returns an Integer.
+// Only the first number in the string is returned.
+//Text string has to start with a number
+// Leading and trailing spaces are allowed
+// if it can't find the integer then it returns NaN
+//NaN - Not a Number
+
+var a = parseInt("40 years old");
+console.log(a);
+var b = parseInt("I am 40 years old");
+console.log(b);
+
+var c = Number("40 years old");
+console.log(c);
+
+
+//Prompts ONLY return strings
+var shoesHad = prompt("How many pairs of shoes did you own before?");
+var shoesBought = prompt("How many pairs of shoes did you buy?");
+var totalshoes = parseInt(shoesHad) + parseInt(shoesBought);
+console.log(totalshoes);

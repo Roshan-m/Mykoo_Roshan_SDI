@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f65002a-94b8-4a2b-a2bd-75c7ce0e7168" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/day4_casting.html" afterPath="$PROJECT_DIR$/Day 4/day4_casting.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/js/day4_casting.js" afterPath="$PROJECT_DIR$/Day 4/js/day4_casting.js" />
     </list>
     <ignored path="Mykoo_Roshan_SDI.iws" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="day4_casting.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56987786" vertical-offset="0" max-vertical-offset="737">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.83717775" vertical-offset="148" max-vertical-offset="885">
+              <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -402,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56987786" vertical-offset="0" max-vertical-offset="737">
-          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.83717775" vertical-offset="148" max-vertical-offset="885">
+          <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
