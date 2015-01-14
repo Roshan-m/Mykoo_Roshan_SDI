@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f65002a-94b8-4a2b-a2bd-75c7ce0e7168" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/js/day4_prompting.js" afterPath="$PROJECT_DIR$/Day 4/js/day4_prompting.js" />
-    </list>
+    <list default="true" id="3f65002a-94b8-4a2b-a2bd-75c7ce0e7168" name="Default" comment="" />
     <ignored path="Mykoo_Roshan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day4_prompting.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 4/js/day4_prompting.js">
+      <file leaf-file-name="day4_casting.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6105834" vertical-offset="0" max-vertical-offset="737">
-              <caret line="30" column="122" selection-start-line="30" selection-start-column="122" selection-end-line="30" selection-end-column="123" />
+            <state vertical-scroll-proportion="0.16282225" vertical-offset="0" max-vertical-offset="737">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -38,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day4_prompting.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 4/day4_prompting.html">
+      <file leaf-file-name="day4_casting.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 4/day4_casting.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -68,6 +66,8 @@
         <option value="$PROJECT_DIR$/Day 4/day4Arrays.html" />
         <option value="$PROJECT_DIR$/Day 4/day4_prompting.html" />
         <option value="$PROJECT_DIR$/Day 4/js/day4_prompting.js" />
+        <option value="$PROJECT_DIR$/Day 4/day4_casting.html" />
+        <option value="$PROJECT_DIR$/Day 4/js/day4_casting.js" />
       </list>
     </option>
   </component>
@@ -361,14 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/day4_prompting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/js/day.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8778833" vertical-offset="658" max-vertical-offset="1395">
@@ -381,8 +373,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/js/day4_prompting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6105834" vertical-offset="0" max-vertical-offset="737">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
           <caret line="30" column="122" selection-start-line="30" selection-start-column="122" selection-end-line="30" selection-end-column="123" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/day4_prompting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.042075735" vertical-offset="0" max-vertical-offset="713">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/day4_casting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16282225" vertical-offset="0" max-vertical-offset="737">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
