@@ -8,16 +8,16 @@ Expressions Assignment.
 //alert("test");
 
 
- //User prompts asking for the sides of a rectungular prism
-var height = prompt("We are calculating the volume of a Rectangular Prism.\n Please provide one side of a Prism");
+ //User prompts asking for the sides of a trapezoid
+var height = prompt("We are calculating the area of a trapezoid.\n Please provide one side of a trapezoid.");
  height=parseInt(height);
- var base = prompt("Please enter in a base for the prism");
+ var base = prompt("Please enter in a base for the trapezoid");
  base = parseInt(base);
- var width = prompt("Please enter a width for the prism");
- width = parseInt(width);
+ var base2 = prompt("Please enter a width for the trapezoid");
+ width = parseInt(base2);
 
  //Array
- var volumeFormula = [height,base,width];
+ var volumeFormula = [height,base,base2];
 
 
 //Assignment operators
@@ -28,5 +28,5 @@ var height = prompt("We are calculating the volume of a Rectangular Prism.\n Ple
  total = x *= volumeFormula[2];
 
 console.log(total);
- console.log(alert("The Volume of your rectangular prism is"+" "+total+" "+"Units Cubed"));
+ console.log(alert("The area of your trapezoid is"+" "+total+" "+"Units squared"));
 // (h*b*L)
