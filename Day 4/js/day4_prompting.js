@@ -17,7 +17,7 @@ console.log(userInput);
 // area = length * with
 
 // Create 2 variables and prompt the user for length and with
-var length = prompt("Please entter in length");
+var length = prompt("Please enter in length");
 var width = prompt("Please enter in with");
 
 //cakcukate area

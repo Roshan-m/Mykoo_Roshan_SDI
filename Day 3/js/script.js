@@ -78,7 +78,7 @@ console.log(evenOrOdd);
 
  */
 
-var counter = 1;
+//Formula for expression
 counter++; // counter = counter + 1;
 console.log(counter);
 
