@@ -39,30 +39,8 @@
       <file leaf-file-name="expressions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mykoo_Roshan_Expressions_Assignment/js/expressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.468114" vertical-offset="0" max-vertical-offset="737">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 3/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="793" max-vertical-offset="2610">
-              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="82" selection-end-column="21" />
-              <folding>
-                <element signature="e#69#87#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day4_prompting.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 4/js/day4_prompting.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="123" />
+            <state vertical-scroll-proportion="0.56987786" vertical-offset="0" max-vertical-offset="737">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -416,16 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83717775" vertical-offset="148" max-vertical-offset="885">
-          <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/day4_casting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.08415147" vertical-offset="0" max-vertical-offset="713">
@@ -442,14 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/js/day4_prompting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="123" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mykoo_Roshan_Expressions_Assignment/Mykoo_roshan_Expressions_Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="240">
@@ -458,10 +418,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85481685" vertical-offset="135" max-vertical-offset="885">
+          <caret line="51" column="47" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4/js/day4_prompting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="793" max-vertical-offset="2610">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="82" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="763" max-vertical-offset="2610">
+          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
           <folding>
             <element signature="e#69#87#0" expanded="false" />
           </folding>
@@ -470,8 +448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mykoo_Roshan_Expressions_Assignment/js/expressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.468114" vertical-offset="0" max-vertical-offset="737">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.56987786" vertical-offset="0" max-vertical-offset="737">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
           <folding />
         </state>
       </provider>
