@@ -19,17 +19,14 @@ var height = prompt("We are calculating the volume of a Rectangular Prism.\n Ple
  //Array
  var volumeFormula = [height,base,width];
 
- //Formula for expression
- var volumRec = height*base*width;
-
-
-
 
 //Assignment operators
-var assignment;
+ var x; // used as variable for formula
  var total;
+ x = volumeFormula[0] *= volumeFormula[1];
 
+ total = x *= volumeFormula[2];
 
-
-console.log(volumRec);
- console.log(alert("The Volume of your rectangular prism is"+" "+volumRec+" "+"Units Cubed"));
+console.log(total);
+ console.log(alert("The Volume of your rectangular prism is"+" "+total+" "+"Units Cubed"));
+// (h*b*L)
