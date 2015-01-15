@@ -49,5 +49,9 @@ console.log(c);
 //Prompts ONLY return strings
 var shoesHad = prompt("How many pairs of shoes did you own before?");
 var shoesBought = prompt("How many pairs of shoes did you buy?");
-var totalshoes = parseInt(shoesHad) + parseInt(shoesBought);
+var totalshoes = parseInt(shoesHad) + parseInt( shoesBought);
 console.log(totalshoes);
+
+
+5%2;
+console.log(5%2);
