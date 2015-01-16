@@ -6,7 +6,7 @@ Conditionals worksheet
 */
 
 //alert("test");
-/*
+
 //Last Chance for Gas!
 //A driver has to determine if they can make it across the desert with their current fuel.
 //They are about to past the last gas station for the next 200 miles and they need to determine
@@ -22,10 +22,10 @@ var milesLeftInTank=(fuelLeft*mpg);
 console.log(fuelLeft);
 console.log(milesLeftInTank);
 (milesLeftInTank>200)? console.log("Yes, you can make it without stopping for gas!"):console.log("You only have "+milesLeftInTank.toFixed(2)+" gallons of gas in your tank, better get gas now while you can!");
-*/
 
 
-/*
+
+
  //Grade Letter Calculator
  // Asking user for grade
  // If #>= 90 then A
@@ -47,7 +47,7 @@ console.log(milesLeftInTank);
  else {
   console.log("You have a "+grade+"%, which means you have earned a(n) F in the class!");
  }
-*/
+
 
 //Movie Ticket Price
 //Age of viewer
@@ -57,21 +57,9 @@ console.log(milesLeftInTank);
 var ageOfView = prompt("To view the price of your ticket please enter\n The age of viewer");
  var timeOfMovie= parseInt(prompt("Enter your time of movie"));
 
- if(ageOfView>=55){
-  console.log("Your movie ticket will be $7.00");
+ if((ageOfView>=55 || ageOfView<10) || (timeOfMovie<5 && timeOfMovie>=3)){
+  console.log("The ticket price is $7.00");
  }
- else if(ageOfView<10) {
-  console.log("Your movie ticket will be $7.00");
- } else {
-  console.log("Your movie ticket will be $12.00");
- }
-
- if(timeOfMovie>5){
-  console.log("Your movie ticket will be $12.00");
- }
- else if(timeOfMovie<3){
-  console.log("Your movie ticket will be $12.00");
- }
- else{
-  console.log("Your movie ticket will be $7.00")
+ else {
+  console.log("The ticket price is $12.00");
  }
