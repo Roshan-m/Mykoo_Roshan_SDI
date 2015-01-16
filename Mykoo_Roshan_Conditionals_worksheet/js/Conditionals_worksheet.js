@@ -6,7 +6,7 @@ Conditionals worksheet
 */
 
 //alert("test");
-
+/*
 //Last Chance for Gas!
 //A driver has to determine if they can make it across the desert with their current fuel.
 //They are about to past the last gas station for the next 200 miles and they need to determine
@@ -22,8 +22,10 @@ Conditionals worksheet
 //console.log(fuelLeft);
 //console.log(milesLeftInTank);
 //(milesLeftInTank>200)? console.log("Yes, you can make it without stopping for gas!"):console.log("You only have "+milesLeftInTank.toFixed(2)+" gallons of gas in your tank, better get gas now while you can!");
+*/
 
 
+/*
  //Grade Letter Calculator
  // Asking user for grade
  // If #>= 90 then A
@@ -41,6 +43,9 @@ Conditionals worksheet
  }
  else if(grade>=70){
   console.log("You have a "+grade+"%, which means you have earned a(n) C in the class!");
- } else {
+ }
+ else {
   console.log("You have a "+grade+"%, which means you have earned a(n) F in the class!");
  }
+*/
+
