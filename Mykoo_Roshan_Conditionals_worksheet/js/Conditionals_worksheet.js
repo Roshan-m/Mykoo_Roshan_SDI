@@ -22,3 +22,25 @@ Conditionals worksheet
 //console.log(fuelLeft);
 //console.log(milesLeftInTank);
 //(milesLeftInTank>200)? console.log("Yes, you can make it without stopping for gas!"):console.log("You only have "+milesLeftInTank.toFixed(2)+" gallons of gas in your tank, better get gas now while you can!");
+
+
+ //Grade Letter Calculator
+ // Asking user for grade
+ // If #>= 90 then A
+ // If #>= 80 then B
+ // If #>=70 then C
+ // if #<70 then F
+
+ var grade =prompt("Enter your number current grade to \n calculate your current letter grade.");
+
+ if(grade>=90){
+  console.log("You have a "+grade+"%, which means you have earned a(n) A in the class!");
+ }
+ else if(grade>=80){
+  console.log("You have a "+grade+"%, which means you have earned a(n) B in the class!");
+ }
+ else if(grade>=70){
+  console.log("You have a "+grade+"%, which means you have earned a(n) C in the class!");
+ } else {
+  console.log("You have a "+grade+"%, which means you have earned a(n) F in the class!");
+ }
