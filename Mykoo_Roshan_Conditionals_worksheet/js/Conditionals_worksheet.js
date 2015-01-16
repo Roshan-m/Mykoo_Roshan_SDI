@@ -12,16 +12,16 @@ Conditionals worksheet
 //They are about to past the last gas station for the next 200 miles and they need to determine
 //whether they should stop now for gas or not.
 
-//var mpg=prompt("Let's see if your car can make it to the next gas station with out refueling. \nEnter MPG of Vehicle");
-//var tankCapacity=prompt("Enter fuel tank capacity.");
-//var gasPercent=(prompt("Enter the current fuel level(%)")/100);
-//var fuelLeft=(tankCapacity*gasPercent);//Formula
-//var milesLeftInTank=(fuelLeft*mpg);
+var mpg=prompt("Let's see if your car can make it to the next gas station with out refueling. \nEnter MPG of Vehicle");
+var tankCapacity=prompt("Enter fuel tank capacity.");
+var gasPercent=(prompt("Enter the current fuel level(%)")/100);
+var fuelLeft=(tankCapacity*gasPercent);//Formula
+var milesLeftInTank=(fuelLeft*mpg);
 
 
-//console.log(fuelLeft);
-//console.log(milesLeftInTank);
-//(milesLeftInTank>200)? console.log("Yes, you can make it without stopping for gas!"):console.log("You only have "+milesLeftInTank.toFixed(2)+" gallons of gas in your tank, better get gas now while you can!");
+console.log(fuelLeft);
+console.log(milesLeftInTank);
+(milesLeftInTank>200)? console.log("Yes, you can make it without stopping for gas!"):console.log("You only have "+milesLeftInTank.toFixed(2)+" gallons of gas in your tank, better get gas now while you can!");
 */
 
 
@@ -49,3 +49,29 @@ Conditionals worksheet
  }
 */
 
+//Movie Ticket Price
+//Age of viewer
+// Time of movie
+// Provide ticket price
+
+var ageOfView = prompt("To view the price of your ticket please enter\n The age of viewer");
+ var timeOfMovie= parseInt(prompt("Enter your time of movie"));
+
+ if(ageOfView>=55){
+  console.log("Your movie ticket will be $7.00");
+ }
+ else if(ageOfView<10) {
+  console.log("Your movie ticket will be $7.00");
+ } else {
+  console.log("Your movie ticket will be $12.00");
+ }
+
+ if(timeOfMovie>5){
+  console.log("Your movie ticket will be $12.00");
+ }
+ else if(timeOfMovie<3){
+  console.log("Your movie ticket will be $12.00");
+ }
+ else{
+  console.log("Your movie ticket will be $7.00")
+ }
