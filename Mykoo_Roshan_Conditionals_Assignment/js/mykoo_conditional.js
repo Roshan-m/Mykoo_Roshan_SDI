@@ -11,11 +11,7 @@ Conditionals Assignment
 // after you paid your rent?
 
  var payCheck = parseInt(prompt("Let's see if you can afford and Xbox One!\nPlease enter the amount of money you saved from your last paycheck."));
- var birthday;
-
-(payCheck == "")? alert("You Did not input part of your information correctly,\n Please refresh and try again "):parseInt(prompt("Please enter the money saved from your birthday."));
-
-
+ var birthday = parseInt(prompt("Please enter the money saved from your birthday."));
  var rent = parseInt(prompt("What is your total rent for the month?"));
 
 
@@ -30,3 +26,4 @@ var moneyLeft = moneyToSpend-350;
   console.log(alert("Sorry you cannot buy an Xbox One"));
  }
 
+ (payCheck == "")? alert("You Did not input part of your information correctly,\n Please refresh and try again "):birthday;
