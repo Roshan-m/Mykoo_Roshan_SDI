@@ -117,6 +117,8 @@ var randomCookie= Math.round(Math.random() * ( arrOfItem.length-1));
 console.log("My current favorite is "+ arrOfItem[randomCookie]);
     
     
+console.log(Math.PI);
+
     
     
     
