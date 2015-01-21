@@ -7,10 +7,13 @@ While Loop
 
 //alert("test");
 
-var userInput= parseInt(prompt("We are testing a While Loop,\n Please enter a random number!"));
+var userInput= parseInt(prompt("We are testing a While Loop,\n Please enter a random number between 0 and 100!"));
+console.log(userInput);
 
-while(userInput === ""){
-    userInput = parseInt(prompt("You did not enter the proper information, please enter again."));
+while(userInput==="" || userInput>100){
+    userInput=parseInt(prompt("You did not enter a number between 0 and 100 please try again"));
 }
-
-while(userInput)
+while(userInput<=100) {
+    console.log(userInput + " While loop example");
+    userInput++;
+}
