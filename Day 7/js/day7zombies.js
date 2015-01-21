@@ -16,7 +16,7 @@ var numZombies= 1; //How many zombies do we have?
 var numBites= 4; //Number of bites per zombie per day
 var days = 8; //Number of days
 var dayTakes = 0
-/*
+
 for(var i=1; i<=days; i++){
     //How many new zombies get maid and when do they go bite people
     //they get bitten and then the next day they can bite
@@ -30,11 +30,11 @@ var newZombies = numBites*numZombies;
     //Report at the end of the day
     console.log("There are "+numZombies+" zombies at the end of day #"+i+"!");
 }
-*/
 
 
+/*
 //How many days will it take to reach a million zombies?
-while(numZombies <=10000000){
+while(numZombies <=1000000){
     var newZombies = numZombies*numBites;
     
     numZombies += newZombies;
@@ -42,3 +42,4 @@ while(numZombies <=10000000){
     dayTakes++;
 }
 console.log("It will take "+dayTakes+" days for 1,000,000");
+    */
