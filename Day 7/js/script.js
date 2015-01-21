@@ -37,7 +37,7 @@ while(counter<20){
 var i = 0;
 do{
     //THis code will run before the condidtion is checked
-    // it will slao as long as the condition is ture
+    // it will also as long as the condition is true
     console.log("The number is "+i);
     i++;
     
