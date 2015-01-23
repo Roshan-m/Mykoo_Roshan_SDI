@@ -16,7 +16,7 @@ function calcArea(w,h){
 }
 
 //functioin call
-calcArea(77.9);
+calcArea(77,9);
 
 var returnedArea = calcArea(77,9);
 
