@@ -36,8 +36,15 @@ function volumePyr(l,w,h){
     return multiply;
 }
 var product = volumePyr(baseLength,baseWidth,height);
-console.log(product);
+//console.log(product);
 
+var formulaPart2 = function (x){
+    var divide= x/3;
+    return divide;
+}
+
+var result= formulaPart2(product);
+console.log("The Volume of the pyramid is"+" "+result+" "+"Units Cubed."); 
 
 
 
