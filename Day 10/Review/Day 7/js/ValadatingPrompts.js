@@ -7,6 +7,10 @@ Valadationg Prompts
 //alert('test');
 var userInput = prompt('Please type in your name:');
 
+while(userInput === ""){
+    userInput= prompt("please do not leave blank");
+}
+
 
 //Validating prompt with an conditional
 if (userInput === "") {
@@ -28,7 +32,7 @@ while(firstName===""){
 
 //Test to see if it is a number
 //is NaN() - test what is inside of (). is it not a number?
-//Numbers retuen false, everything else returns true
+//Numbers return false, everything else returns true
 
 
 console.log(isNaN("monkey")); // Returns true
@@ -46,7 +50,7 @@ while(isNaN(age) || age ==="") {
 }
 
 
-var choice = prompt("Please type in yes or no:")
+var choice = prompt("Please type in yes or no:");
 //convert to lower case
 choice = choice.toLowerCase();
 

@@ -15,7 +15,7 @@ Zombie attack
 var numZombies= 1; //How many zombies do we have?
 var numBites= 4; //Number of bites per zombie per day
 var days = 8; //Number of days
-var dayTakes = 0
+var dayTakes = 0;
 
 for(var i=1; i<=days; i++){
     //How many new zombies get maid and when do they go bite people
