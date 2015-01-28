@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f65002a-94b8-4a2b-a2bd-75c7ce0e7168" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 4/js/day4_casting.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 4/js/day4_casting.js" />
     </list>
     <ignored path="Mykoo_Roshan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 4/js/day.js">
+      <file leaf-file-name="day4_casting.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 4/js/day4_casting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24423338" vertical-offset="630" max-vertical-offset="1395">
-              <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.30800542" vertical-offset="208" max-vertical-offset="945">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -90,6 +90,7 @@
         <option value="$PROJECT_DIR$/Day 10/pizza.html" />
         <option value="$PROJECT_DIR$/Day 10/js/pizza.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 3/js/script.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 4/js/day4_casting.js" />
       </list>
     </option>
   </component>
@@ -342,13 +343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mykoo_Roshan_Expressions_Assignment/Mykoo_roshan_Expressions_Assignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Mykoo_Roshan_Expressions_Assignment/js/expressions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
@@ -709,8 +703,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 4/js/day.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24423338" vertical-offset="630" max-vertical-offset="1395">
+        <state vertical-scroll-proportion="0.20624152" vertical-offset="658" max-vertical-offset="1395">
           <caret line="54" column="32" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 4/js/day4_casting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30800542" vertical-offset="208" max-vertical-offset="945">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

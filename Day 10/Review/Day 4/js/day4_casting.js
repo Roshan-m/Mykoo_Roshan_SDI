@@ -7,8 +7,8 @@ Casting
 
 //Casting one variable type to be another variable type
 var stringVar = "6";
-var reaults = 7 + stringVar;
-console.log(reaults);
+var results = 7 + stringVar;
+console.log(results);
 
 //Number(variable or value to cast) _ treats anything
 var castingResults = 7 + Number(stringVar);
