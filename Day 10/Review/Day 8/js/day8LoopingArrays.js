@@ -6,7 +6,7 @@
  */
 //alert('test');
 
-//Basic Strusture of for lop over array
+//Basic Structure of for lop over array
 //for(var i = 0; i<array.length; i++){}
 
 //Create an array of Scooby Doo characters

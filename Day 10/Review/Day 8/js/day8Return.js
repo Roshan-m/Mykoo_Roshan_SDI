@@ -6,7 +6,7 @@ returns
  */
 
 //alert('test');
-//Create a function calculate the area for the rectan
+//Create a function calculate the area for the rectangle
 function calcArea(w,h){
     
     var area = w*h;
@@ -22,7 +22,7 @@ var returnedArea = calcArea(77,9);
 
 //This Does not work!
 //console.log(area);
-console.log(returnedArea)
+console.log(returnedArea);
 
 
 //Create a function to calc the area of a circle
@@ -46,12 +46,12 @@ var twoArea = result*2;
 console.log("the area of both circles is "+twoArea.toFixed(2));
 
 var result2= circlearea(3);
-console.log("the area of a circle with a radis of 3 is "+result2);
+console.log("the area of a circle with a radius of 3 is "+result2);
 
 
 //prompt user for radius then calculate the area
 
-var userRad = prompt("Plese type in a radius:");
+var userRad = prompt("Please type in a radius:");
 
 //Validate prompt
 while(isNaN(userRad) || userRad===""){

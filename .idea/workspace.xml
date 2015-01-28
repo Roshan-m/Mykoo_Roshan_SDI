@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3f65002a-94b8-4a2b-a2bd-75c7ce0e7168" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Function.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Function.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8LoopingArrays.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8LoopingArrays.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Return.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Return.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Scope.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Scope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 8/js/valadate.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 8/js/valadate.js" />
     </list>
     <ignored path="Mykoo_Roshan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day3LabExpression/script.js" />
-        <option value="$PROJECT_DIR$/Day3LabExpression/Day3LabExpression.html" />
-        <option value="$PROJECT_DIR$/day3LabExpression/script.js" />
-        <option value="$PROJECT_DIR$/Day 3/script.js" />
-        <option value="$PROJECT_DIR$/day3LabExpression/Day3LabExpression.html" />
         <option value="$PROJECT_DIR$/day3LabExpression/js/script.js" />
         <option value="$PROJECT_DIR$/Day 4/js/day.js" />
         <option value="$PROJECT_DIR$/Day 4/day4Arrays.html" />
@@ -84,6 +84,11 @@
         <option value="$PROJECT_DIR$/Day 10/Review/Day 7/js/ValadatingPrompts.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7zombies.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/valadate.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Scope.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Return.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8LoopingArrays.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Function.js" />
       </list>
     </option>
   </component>
@@ -210,7 +215,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 7" />
+              <option name="myItemId" value="Day 8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,7 +237,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 7" />
+              <option name="myItemId" value="Day 8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -358,48 +363,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Mykoo_Roshan_Expressions_Assignment/Mykoo_roshan_Expressions_Assignment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="60" max-vertical-offset="240">
-          <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 3/js/script2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/js/day.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8778833" vertical-offset="583" max-vertical-offset="1320">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/day4_prompting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10518934" vertical-offset="0" max-vertical-offset="713">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/js/day4_casting.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95929444" vertical-offset="88" max-vertical-offset="885">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4/day4_casting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06311361" vertical-offset="0" max-vertical-offset="713">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.8928087" vertical-offset="0" max-vertical-offset="2625">
@@ -764,6 +727,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36635005" vertical-offset="0" max-vertical-offset="737">
           <caret line="18" column="123" selection-start-line="18" selection-start-column="123" selection-end-line="18" selection-end-column="123" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 8/js/valadate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08412483" vertical-offset="283" max-vertical-offset="1020">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7530529" vertical-offset="0" max-vertical-offset="737">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Return.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40976933" vertical-offset="493" max-vertical-offset="1230">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 8/js/day8LoopingArrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18317503" vertical-offset="0" max-vertical-offset="737">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 8/js/day8Function.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7327001" vertical-offset="0" max-vertical-offset="737">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 8/js/day8ArgParg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

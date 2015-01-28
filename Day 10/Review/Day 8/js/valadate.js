@@ -12,14 +12,14 @@ var movie = prompt("What is your favorite movie?");
 
 while(movie===""){
     //Then the user left the prompt blank
-    //Repormpt the user
+    //Reprompt the user
     movie=prompt("Please dont leave this blank.\nWhat is your favorite movie?");
 }
 
 //Test to see if the use typed in a number or not
 //isNaN() - Is not a number
-//text strings ruten true
-//numbers retuns false
+//text strings return true
+//numbers returns false
 
 var ticketPrice= prompt("How much is a movie ticket?");
 
