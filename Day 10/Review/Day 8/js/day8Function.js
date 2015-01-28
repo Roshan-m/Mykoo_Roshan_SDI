@@ -34,7 +34,7 @@ printMore();
 function calcArea() {
     //Creates variables for width, height and area
     var width = 20;
-    var height= 30
+    var height= 30;
     var area = width*height;
     console.log('The area is '+area);
 }
