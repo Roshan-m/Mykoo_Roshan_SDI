@@ -9,11 +9,11 @@
 // Is my Steak done?
 
 /*
-120 and under is undercoocked
+120 and under is under cooked
 120-124 - steak is rare
 125-129 - steak is medium-rare
 130-139 - steak is medium
-140-149 - steak is meidum-well
+140-149 - steak is medium-well
 150-165 - steak is well done
 >165 is burnt to a crisp 
  */

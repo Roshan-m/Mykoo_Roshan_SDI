@@ -22,7 +22,7 @@ f||f=f
 
 !operator
 !(true)=false
-!(false)=ture
+!(false)=true
  */
 
 //If the price of the 3DS is less than out budget, lets buy it
