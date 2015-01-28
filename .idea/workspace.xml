@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f65002a-94b8-4a2b-a2bd-75c7ce0e7168" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 7/js/ValadatingPrompts.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 7/js/ValadatingPrompts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 5/js/day5_LogicalOperators.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 5/js/day5_LogicalOperators.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7zombies.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7zombies.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 6/mykoo_day6.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 6/mykoo_day6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js" afterPath="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js" />
     </list>
     <ignored path="Mykoo_Roshan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,20 +25,7 @@
     <favorites_list name="Mykoo_Roshan_SDI" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="day7_beer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="737">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,7 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 3/day3.html" />
         <option value="$PROJECT_DIR$/Day3LabExpression/script.js" />
         <option value="$PROJECT_DIR$/Day3LabExpression/Day3LabExpression.html" />
         <option value="$PROJECT_DIR$/day3LabExpression/script.js" />
@@ -100,6 +83,7 @@
         <option value="$PROJECT_DIR$/Day 10/Review/Day 6/mykoo_day6.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 7/js/ValadatingPrompts.js" />
         <option value="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7zombies.js" />
+        <option value="$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js" />
       </list>
     </option>
   </component>
@@ -329,14 +313,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="22" width="953" height="834" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2528856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2528856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -778,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 10/Review/Day 7/js/day7_beer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.36635005" vertical-offset="0" max-vertical-offset="737">
+          <caret line="18" column="123" selection-start-line="18" selection-start-column="123" selection-end-line="18" selection-end-column="123" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

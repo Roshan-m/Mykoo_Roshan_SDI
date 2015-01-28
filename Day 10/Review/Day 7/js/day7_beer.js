@@ -16,7 +16,7 @@ for(var i=99; i>0; i--){
 
     //Add a check for the last round of beers
     if (i===1) {
-        console.log(i+" Bottles of beer on the wall. "+i+" Bottles of beer. You take one down and pass it around, No more ottles of beer on the wall.\nThe End!");
+        console.log(i+" Bottles of beer on the wall. "+i+" Bottles of beer. You take one down and pass it around, No more bottles of beer on the wall.\nThe End!");
     }
 else{
     console.log(i+" Bottles of beer on the wall. "+i+" Bottles of beer. You take one down and pass it around, "+(i-1)+" Bottles of beer on the wall.");
