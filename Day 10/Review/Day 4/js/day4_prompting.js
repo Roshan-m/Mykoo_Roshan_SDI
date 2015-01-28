@@ -20,12 +20,12 @@ console.log(userInput);
 var length = prompt("Please enter in length");
 var width = prompt("Please enter in with");
 
-//cakcukate area
+//calcukate area
 var areaRect = length*width;
 console.log(areaRect);
 
-var length = prompt("Let's calculate the area of a rectangle. \n Please enter in length");
-var width = prompt("Please enter in with");
+var length2 = prompt("Let's calculate the area of a rectangle. \n Please enter in length");
+var width2 = prompt("Please enter in with");
 
-var areaRect = length * width;
-console.log("The area of your rectangle with a length of"+" "+length+" "+"and a width of"+" "+width+" "+"is"+" "+areaRect);
+var areaRect2 = length2 * width2;
+console.log("The area of your rectangle with a length of"+" "+length+" "+"and a width of"+" "+width+" "+"is"+" "+areaRect2);
