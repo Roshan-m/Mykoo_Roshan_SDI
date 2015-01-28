@@ -54,7 +54,7 @@ console.log(areatriangle);
 
 //Modulo - %
 //Gives remainder
-var remainder = 32%10
+var remainder = 32%10;
 console.log(remainder);
 
 //Find if even or odd
@@ -110,7 +110,7 @@ console.log(frogName);
 
 
 //Double quote or single quote?
-// can use an escaping character \ blackslash in from od the apostrophe
+// can use an escaping character \ backslash in from od the apostrophe
 var phrase =  'I don\'t know!';
 console.log(phrase);
 
@@ -162,7 +162,7 @@ var combine = d+e;
 console.log(combine);
 
 //Constant values are always uppercase
-var PI = 3.14;
+var pI = 3.14;
 
 
 //Round to a decimal place
