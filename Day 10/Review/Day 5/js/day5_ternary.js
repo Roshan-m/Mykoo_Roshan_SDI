@@ -25,7 +25,11 @@ Ternary
 
 
  //Decide what book a kid will read
- var age = ;
+ var age = prompt("Enter an age for child");
+
+ while(age === "" || isNaN(age)){
+  age=prompt("Please do not leave blank and only use numbers\n enter in an age")
+ }
  var book;
 
 
